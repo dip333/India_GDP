@@ -1,6 +1,6 @@
-# Non-Linear-Regression
-China GDP change with respect to year 1960-2014
+# Indian GDP Analysis
 
-If the data shows a curvy trend, then linear regression will not produce very accurate results when compared to a non-linear regression because, as the name implies, linear regression presumes that the data is linear. 
+The scope of this project is to show ups & downs occurred in Indian GDP Growth rate till 2019.
 
-I thank : Saeed Aghabozorgi sir for his tutorial on machine learning course
+If the data shows a curvy trend, then linear regression will not produce very accurate results when compared to a non-linear regression.
+
